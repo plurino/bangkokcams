@@ -1,0 +1,162 @@
+[
+  {
+    "name": "JWINTHAI",
+    "slug": "jwinthai",
+    "platform": "youtube",
+    "channel_id": "UC0XFjC4eW1aYk035qjP7wEg",
+    "handle": "@jwinthai",
+    "avatar_url": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200&auto=format&fit=crop&q=80",
+    "primary_zone": "soi_4",
+    "content_tags": [
+      "4K HDR Walking Tours",
+      "Sukhumvit Soi 4",
+      "Nana Plaza",
+      "Binaural Audio"
+    ],
+    "bio_seo": "JWINTHAI is Bangkok's premier 4K 60fps HDR street walk channel. Featuring binaural 3D stereo audio, JWINTHAI documents serene evening strolls and lively nightlife scenes through Sukhumvit Soi 4, Nana Plaza, Soi Cowboy, Asok, and Chinatown."
+  },
+  {
+    "name": "Bangkok Walker",
+    "slug": "bangkok-walker",
+    "platform": "youtube",
+    "channel_id": "UCEWqLsklX2yFe2J4BvBhK1Q",
+    "handle": "@BangkokWalker",
+    "avatar_url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&auto=format&fit=crop&q=80",
+    "primary_zone": "cowboy",
+    "content_tags": [
+      "4K Walking Tours",
+      "Soi Cowboy",
+      "Asok Junction",
+      "Street Food"
+    ],
+    "bio_seo": "Bangkok Walker delivers pristine daytime and evening walking tours with stabilized 4K cameras. Exploring vibrant night markets, train stations, alleys, and entertainment districts without voiceover narration."
+  },
+  {
+    "name": "Walking in the Rain",
+    "slug": "walking-in-the-rain",
+    "platform": "youtube",
+    "channel_id": "UCq_Fh5QvQv5Lg_VjT4jJ8qQ",
+    "handle": "@WalkingInTheRain",
+    "avatar_url": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=200&auto=format&fit=crop&q=80",
+    "primary_zone": "siam",
+    "content_tags": [
+      "Rain Walking",
+      "Binaural Audio",
+      "Cinematic 4K",
+      "Siam Square"
+    ],
+    "bio_seo": "Cinematic, calming rainy day walks through Bangkok. Immersive downpours and neon reflections along Sukhumvit, Siam Square, and Chao Phraya riverbanks."
+  },
+  {
+    "name": "Bangkok 112",
+    "slug": "bangkok-112",
+    "platform": "youtube",
+    "channel_id": "UCip2HiAmspOVMeh0yxMcEaA",
+    "handle": "@Bangkok112",
+    "avatar_url": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=200&auto=format&fit=crop&q=80",
+    "primary_zone": "soi_11",
+    "content_tags": [
+      "Nightlife Guides",
+      "Sukhumvit Soi 11",
+      "Expat Tips",
+      "Walking Tours"
+    ],
+    "bio_seo": "Bangkok 112 is one of the longest-running and most respected Thailand videographers, producing highly informative walking guides, neighborhood analyses, and practical nightlife tips."
+  },
+  {
+    "name": "Global Travel Mate",
+    "slug": "global-travel-mate",
+    "platform": "youtube",
+    "channel_id": "UCBHe3wIIdd4xES3I_lP03kQ",
+    "handle": "@GlobalTravelMate",
+    "avatar_url": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?w=200&auto=format&fit=crop&q=80",
+    "primary_zone": "silom",
+    "content_tags": [
+      "Travel Guides",
+      "Transit Navigation",
+      "Silom",
+      "Street Food"
+    ],
+    "bio_seo": "Global Travel Mate breaks down how to navigate Bangkok like a pro, covering BTS Skytrain, MRT subway routes, river ferries, local markets, and travel itineraries."
+  },
+  {
+    "name": "Retire Cheap Asia",
+    "slug": "retire-cheap-asia",
+    "platform": "youtube",
+    "channel_id": "UCuy0xiNqTQKDTS9aT5LDIPQ",
+    "handle": "@RetireCheapAsia",
+    "avatar_url": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=200&auto=format&fit=crop&q=80",
+    "primary_zone": "thonglor",
+    "content_tags": [
+      "Cost of Living",
+      "Retirement",
+      "Expat Finance",
+      "Bangkok Living"
+    ],
+    "bio_seo": "JC from Retire Cheap Asia shares detailed cost of living breakdowns, condo rentals, grocery budgets, visa updates, and healthcare guidance for living in Bangkok."
+  },
+  {
+    "name": "CB Media",
+    "slug": "cb-media",
+    "platform": "youtube",
+    "channel_id": "UCq2c_ZzT4L5t8N3t9Q3l_0A",
+    "handle": "@CBMedia",
+    "avatar_url": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=200&auto=format&fit=crop&q=80",
+    "primary_zone": "rca",
+    "content_tags": [
+      "Automotive Culture",
+      "RCA",
+      "Bangkok Life",
+      "High Octane"
+    ],
+    "bio_seo": "Chad Bee of CB Media showcases Thailand's car scene, boat racing, luxury supercars, and high-energy nightlife culture around RCA and Bangkok."
+  },
+  {
+    "name": "ProWalks Bangkok",
+    "slug": "prowalks-bangkok",
+    "platform": "youtube",
+    "channel_id": "UCQrOEfaV_DpQjryQ_QW7YTg",
+    "handle": "@ProWalks",
+    "avatar_url": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=200&auto=format&fit=crop&q=80",
+    "primary_zone": "chinatown",
+    "content_tags": [
+      "4K 60fps",
+      "Chinatown Yaowarat",
+      "Old City",
+      "Temples"
+    ],
+    "bio_seo": "ProWalks captures stabilized 4K 60fps walking journeys through Bangkok's historic corridors, including Yaowarat Chinatown, Wat Pho, and the Grand Palace."
+  },
+  {
+    "name": "Bangkok Pat",
+    "slug": "bangkok-pat",
+    "platform": "youtube",
+    "channel_id": "UCamazingtravellive213",
+    "handle": "@BangkokPat",
+    "avatar_url": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?w=200&auto=format&fit=crop&q=80",
+    "primary_zone": "khaosan",
+    "content_tags": [
+      "History",
+      "Architecture",
+      "Khaosan Road",
+      "Cultural Insight"
+    ],
+    "bio_seo": "Bangkok Pat documents Bangkok's urban architecture, historic colonial enclaves, evolving transit infrastructure, and nightlife transformations."
+  },
+  {
+    "name": "Mark Wiens",
+    "slug": "mark-wiens",
+    "platform": "youtube",
+    "channel_id": "UCyEd6QBSgat5kkC6svyjudA",
+    "handle": "@MarkWiens",
+    "avatar_url": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=200&auto=format&fit=crop&q=80",
+    "primary_zone": "chinatown",
+    "content_tags": [
+      "Thai Street Food",
+      "Culinary Adventures",
+      "Chinatown",
+      "Spicy Flavors"
+    ],
+    "bio_seo": "World-renowned food vlogger Mark Wiens explores Bangkok's legendary street food stalls, Michelin-starred roadside eateries, and fiery local recipes."
+  }
+]

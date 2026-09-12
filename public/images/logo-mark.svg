@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" fill="none">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A" />
+      <stop offset="50%" stop-color="#0B0F17" />
+      <stop offset="100%" stop-color="#020617" />
+    </linearGradient>
+    <linearGradient id="markCyan" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00E5FF" />
+      <stop offset="100%" stop-color="#0284C7" />
+    </linearGradient>
+    <linearGradient id="markPink" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FF2A6D" />
+      <stop offset="100%" stop-color="#D946EF" />
+    </linearGradient>
+    <filter id="markGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="16" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <!-- App Rounded Backdrop -->
+  <rect width="512" height="512" rx="112" fill="url(#bgGrad)" />
+  <rect x="4" y="4" width="504" height="504" rx="108" stroke="#334155" stroke-width="3" opacity="0.6" />
+
+  <!-- Outer Radar Rings -->
+  <circle cx="256" cy="236" r="170" stroke="url(#markCyan)" stroke-width="4" stroke-dasharray="16 12" opacity="0.4" />
+  <circle cx="256" cy="236" r="130" stroke="#00E5FF" stroke-width="5" opacity="0.8" />
+  <circle cx="256" cy="236" r="90" fill="#1E293B" stroke="#475569" stroke-width="4" />
+
+  <!-- Crosshairs -->
+  <path d="M256 96 V150 M256 322 V376 M116 236 H170 M342 236 H396" stroke="#00E5FF" stroke-width="6" stroke-linecap="round" opacity="0.8" />
+
+  <!-- Core Neon Pulse -->
+  <circle cx="256" cy="236" r="54" fill="url(#markPink)" filter="url(#markGlow)" />
+  <circle cx="256" cy="236" r="22" fill="#FFFFFF" />
+
+  <!-- Bottom Brand Text -->
+  <text x="256" y="440" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-weight="900" font-size="38" fill="#FFFFFF" text-anchor="middle" letter-spacing="3">
+    BANGKOK<tspan fill="#FF2A6D">CAMS</tspan>
+  </text>
+</svg>

@@ -1,0 +1,713 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "bts-sukhumvit",
+      "properties": {
+        "route_id": "bts-sukhumvit",
+        "name": "BTS Sukhumvit Line",
+        "name_th": "รถไฟฟ้าบีทีเอส สายสุขุมวิท (สีเขียวอ่อน)",
+        "type": "rail",
+        "color": "#22C55E",
+        "fare_thb": "17–62",
+        "direction": "North-South Corridor: Khu Khot ⇄ Siam ⇄ Asok ⇄ Kheha",
+        "frequency": "Every 2.5–4 minutes (06:00 – 24:00)",
+        "description": "Bangkok's backbone elevated sky train connecting northern suburbs, Mo Chit, Ari, Victory Monument, Siam Interchange, Nana, Asok, and Eastern Sukhumvit."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            100.6436,
+            13.9318
+          ],
+          [
+            100.6272,
+            13.9015
+          ],
+          [
+            100.6065,
+            13.8765
+          ],
+          [
+            100.584,
+            13.842
+          ],
+          [
+            100.5748,
+            13.829
+          ],
+          [
+            100.5695,
+            13.8235
+          ],
+          [
+            100.5615,
+            13.8166
+          ],
+          [
+            100.5532,
+            13.8025
+          ],
+          [
+            100.5498,
+            13.7938
+          ],
+          [
+            100.5448,
+            13.7795
+          ],
+          [
+            100.5407,
+            13.7725
+          ],
+          [
+            100.5372,
+            13.7628
+          ],
+          [
+            100.5348,
+            13.7565
+          ],
+          [
+            100.5317,
+            13.7525
+          ],
+          [
+            100.5349,
+            13.746
+          ],
+          [
+            100.5432,
+            13.7441
+          ],
+          [
+            100.5492,
+            13.7431
+          ],
+          [
+            100.5552,
+            13.7402
+          ],
+          [
+            100.5604,
+            13.7369
+          ],
+          [
+            100.5698,
+            13.7303
+          ],
+          [
+            100.5785,
+            13.7243
+          ],
+          [
+            100.5847,
+            13.7196
+          ],
+          [
+            100.5908,
+            13.7154
+          ],
+          [
+            100.601,
+            13.7058
+          ],
+          [
+            100.6052,
+            13.6965
+          ],
+          [
+            100.6094,
+            13.689
+          ],
+          [
+            100.6099,
+            13.6798
+          ],
+          [
+            100.605,
+            13.6682
+          ],
+          [
+            100.6015,
+            13.661
+          ],
+          [
+            100.5958,
+            13.6465
+          ],
+          [
+            100.5985,
+            13.628
+          ],
+          [
+            100.6055,
+            13.5845
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bts-silom",
+      "properties": {
+        "route_id": "bts-silom",
+        "name": "BTS Silom Line",
+        "name_th": "รถไฟฟ้าบีทีเอส สายสีลม (สีเขียวเข้ม)",
+        "type": "rail",
+        "color": "#059669",
+        "fare_thb": "17–62",
+        "direction": "National Stadium ⇄ Siam ⇄ Silom ⇄ Saphan Taksin ⇄ Bang Wa",
+        "frequency": "Every 3–5 minutes (06:00 – 24:00)",
+        "description": "Connects National Stadium and MBK with Siam Interchange, financial Sathorn/Silom nightlife, crossing Chao Phraya River to Thonburi."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            100.5298,
+            13.7465
+          ],
+          [
+            100.5349,
+            13.746
+          ],
+          [
+            100.5398,
+            13.7392
+          ],
+          [
+            100.534,
+            13.7285
+          ],
+          [
+            100.53,
+            13.7235
+          ],
+          [
+            100.5255,
+            13.7197
+          ],
+          [
+            100.5218,
+            13.7192
+          ],
+          [
+            100.5147,
+            13.7188
+          ],
+          [
+            100.51,
+            13.7198
+          ],
+          [
+            100.502,
+            13.721
+          ],
+          [
+            100.495,
+            13.7208
+          ],
+          [
+            100.4855,
+            13.719
+          ],
+          [
+            100.477,
+            13.7145
+          ],
+          [
+            100.469,
+            13.7127
+          ],
+          [
+            100.4578,
+            13.7205
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "mrt-blue",
+      "properties": {
+        "route_id": "mrt-blue",
+        "name": "MRT Blue Line (Subway Loop)",
+        "name_th": "รถไฟฟ้ามหานคร สายเฉลิมรัชมงคล (สายสีน้ำเงิน)",
+        "type": "subway",
+        "color": "#2563EB",
+        "fare_thb": "17–45",
+        "direction": "Tha Phra ⇄ Bang Sue ⇄ Sukhumvit ⇄ Silom ⇄ Chinatown ⇄ Tha Phra",
+        "frequency": "Every 3–6 minutes (06:00 – 24:00)",
+        "description": "The primary underground circular railway linking Chinatown, Old Town, Silom, Sukhumvit, Ratchada Night Market, and Krung Thep Aphiwat Central Terminal."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            100.4735,
+            13.7295
+          ],
+          [
+            100.4705,
+            13.7435
+          ],
+          [
+            100.47,
+            13.7555
+          ],
+          [
+            100.4745,
+            13.7635
+          ],
+          [
+            100.4865,
+            13.778
+          ],
+          [
+            100.4965,
+            13.7845
+          ],
+          [
+            100.5045,
+            13.7925
+          ],
+          [
+            100.5125,
+            13.8035
+          ],
+          [
+            100.5215,
+            13.8065
+          ],
+          [
+            100.5305,
+            13.806
+          ],
+          [
+            100.54,
+            13.8035
+          ],
+          [
+            100.5475,
+            13.8015
+          ],
+          [
+            100.554,
+            13.802
+          ],
+          [
+            100.5615,
+            13.813
+          ],
+          [
+            100.5735,
+            13.8065
+          ],
+          [
+            100.574,
+            13.7925
+          ],
+          [
+            100.5741,
+            13.785
+          ],
+          [
+            100.5742,
+            13.7785
+          ],
+          [
+            100.5728,
+            13.7665
+          ],
+          [
+            100.5668,
+            13.7578
+          ],
+          [
+            100.564,
+            13.7495
+          ],
+          [
+            100.5615,
+            13.737
+          ],
+          [
+            100.5595,
+            13.723
+          ],
+          [
+            100.5535,
+            13.7225
+          ],
+          [
+            100.5448,
+            13.7258
+          ],
+          [
+            100.534,
+            13.7285
+          ],
+          [
+            100.5298,
+            13.7315
+          ],
+          [
+            100.5168,
+            13.737
+          ],
+          [
+            100.5095,
+            13.7432
+          ],
+          [
+            100.5015,
+            13.7468
+          ],
+          [
+            100.4935,
+            13.7442
+          ],
+          [
+            100.4895,
+            13.7345
+          ],
+          [
+            100.4735,
+            13.7295
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "mrt-yellow",
+      "properties": {
+        "route_id": "mrt-yellow",
+        "name": "MRT Yellow Line (Monorail)",
+        "name_th": "รถไฟฟ้ามหานคร สายสีเหลือง (ลาดพร้าว-สำโรง)",
+        "type": "monorail",
+        "color": "#EAB308",
+        "fare_thb": "15–45",
+        "direction": "Lat Phrao ⇄ Bang Kapi ⇄ Hua Mak ⇄ Samrong",
+        "frequency": "Every 4–7 minutes (06:00 – 24:00)",
+        "description": "Straddle monorail traversing the eastern metropolitan loop connecting Lat Phrao, Bang Kapi, Airport Link Hua Mak, and Sukhumvit Samrong."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            100.5735,
+            13.8065
+          ],
+          [
+            100.5875,
+            13.799
+          ],
+          [
+            100.5985,
+            13.7945
+          ],
+          [
+            100.612,
+            13.7905
+          ],
+          [
+            100.6275,
+            13.7845
+          ],
+          [
+            100.638,
+            13.779
+          ],
+          [
+            100.645,
+            13.765
+          ],
+          [
+            100.648,
+            13.754
+          ],
+          [
+            100.6455,
+            13.738
+          ],
+          [
+            100.644,
+            13.7215
+          ],
+          [
+            100.6455,
+            13.7085
+          ],
+          [
+            100.6485,
+            13.693
+          ],
+          [
+            100.6515,
+            13.682
+          ],
+          [
+            100.654,
+            13.669
+          ],
+          [
+            100.6545,
+            13.658
+          ],
+          [
+            100.645,
+            13.652
+          ],
+          [
+            100.6335,
+            13.6495
+          ],
+          [
+            100.621,
+            13.648
+          ],
+          [
+            100.6075,
+            13.647
+          ],
+          [
+            100.5958,
+            13.6465
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "arl",
+      "properties": {
+        "route_id": "arl",
+        "name": "Airport Rail Link (ARL)",
+        "name_th": "รถไฟฟ้าแอร์พอร์ต เรล ลิงก์",
+        "type": "airport_express",
+        "color": "#991B1B",
+        "fare_thb": "15–45",
+        "direction": "Suvarnabhumi Airport (BKK) ⇄ Makkasan ⇄ Phaya Thai",
+        "frequency": "Every 10–12 minutes (05:30 – 24:00)",
+        "description": "Express commuter railway directly connecting Suvarnabhumi International Airport (BKK) with Central Bangkok in 26 minutes."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            100.7505,
+            13.6975
+          ],
+          [
+            100.7295,
+            13.7275
+          ],
+          [
+            100.6905,
+            13.7335
+          ],
+          [
+            100.6455,
+            13.738
+          ],
+          [
+            100.6015,
+            13.7435
+          ],
+          [
+            100.5615,
+            13.7505
+          ],
+          [
+            100.5405,
+            13.7535
+          ],
+          [
+            100.5348,
+            13.7565
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "chao-phraya-orange",
+      "properties": {
+        "route_id": "chao-phraya-orange",
+        "name": "Chao Phraya Express Boat (Orange Flag)",
+        "name_th": "เรือด่วนเจ้าพระยา ธงส้ม",
+        "type": "waterway",
+        "color": "#F97316",
+        "fare_thb": "16",
+        "direction": "Nonthaburi Pier (N30) ⇄ Sathorn Central Pier (CEN)",
+        "frequency": "Every 15–20 minutes (06:00 – 19:00)",
+        "description": "Bangkok's iconic river commuter highway connecting Nonthaburi, Grand Palace, Wat Pho, Wat Arun, Chinatown, and ICONSIAM to BTS Saphan Taksin."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            100.4915,
+            13.8425
+          ],
+          [
+            100.501,
+            13.8245
+          ],
+          [
+            100.5185,
+            13.808
+          ],
+          [
+            100.5135,
+            13.7925
+          ],
+          [
+            100.5055,
+            13.7765
+          ],
+          [
+            100.499,
+            13.771
+          ],
+          [
+            100.4935,
+            13.762
+          ],
+          [
+            100.487,
+            13.7555
+          ],
+          [
+            100.489,
+            13.7515
+          ],
+          [
+            100.4905,
+            13.7455
+          ],
+          [
+            100.4945,
+            13.742
+          ],
+          [
+            100.499,
+            13.7395
+          ],
+          [
+            100.505,
+            13.7365
+          ],
+          [
+            100.511,
+            13.7325
+          ],
+          [
+            100.5135,
+            13.7285
+          ],
+          [
+            100.511,
+            13.7265
+          ],
+          [
+            100.514,
+            13.719
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "saen-saep-canal",
+      "properties": {
+        "route_id": "saen-saep-canal",
+        "name": "Khlong Saen Saep Canal Boat",
+        "name_th": "เรือโดยสารคลองแสนแสบ",
+        "type": "canal",
+        "color": "#06B6D4",
+        "fare_thb": "12–22",
+        "direction": "Golden Mount (Panfa) ⇄ Pratunam Central ⇄ Asok Pier ⇄ Bang Kapi",
+        "frequency": "Every 5–10 minutes (06:00 – 19:30)",
+        "description": "Fastest cross-town transit bypassing Bangkok road traffic. Golden Mount / Old Town through Pratunam shopping district to Asok and Bang Kapi."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            100.5055,
+            13.756
+          ],
+          [
+            100.518,
+            13.7535
+          ],
+          [
+            100.5305,
+            13.7505
+          ],
+          [
+            100.5405,
+            13.7495
+          ],
+          [
+            100.5465,
+            13.749
+          ],
+          [
+            100.5505,
+            13.7485
+          ],
+          [
+            100.5535,
+            13.7478
+          ],
+          [
+            100.563,
+            13.749
+          ],
+          [
+            100.571,
+            13.7475
+          ],
+          [
+            100.578,
+            13.746
+          ],
+          [
+            100.5845,
+            13.7445
+          ],
+          [
+            100.5905,
+            13.743
+          ],
+          [
+            100.598,
+            13.742
+          ],
+          [
+            100.603,
+            13.741
+          ],
+          [
+            100.6225,
+            13.7525
+          ],
+          [
+            100.632,
+            13.758
+          ],
+          [
+            100.645,
+            13.765
+          ]
+        ]
+      }
+    }
+  ]
+}

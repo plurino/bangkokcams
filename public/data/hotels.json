@@ -1,0 +1,146 @@
+{
+  "default": [
+    {
+      "id": "HT-DEF-01",
+      "name": "The Landmark Bangkok",
+      "agoda_hotel_id": "8390",
+      "rating": "8.9",
+      "typical_price_usd": 135,
+      "distance": "Directly on Sukhumvit between Soi 4 & 6, 1 min to BTS Nana"
+    },
+    {
+      "id": "HT-DEF-02",
+      "name": "Grande Centre Point Hotel Terminal 21",
+      "agoda_hotel_id": "286827",
+      "rating": "9.0",
+      "typical_price_usd": 155,
+      "distance": "Direct access to BTS Asok & MRT Sukhumvit"
+    },
+    {
+      "id": "HT-DEF-03",
+      "name": "JW Marriott Hotel Bangkok",
+      "agoda_hotel_id": "8407",
+      "rating": "9.1",
+      "typical_price_usd": 195,
+      "distance": "Sukhumvit Soi 2, 250m to BTS Ploen Chit & Nana"
+    }
+  ],
+  "soi_4": [
+    {
+      "id": "HT-S4-01",
+      "name": "The Landmark Bangkok",
+      "agoda_hotel_id": "8390",
+      "rating": "8.9",
+      "typical_price_usd": 135,
+      "distance": "Directly on Sukhumvit Road at entrance to Soi 4"
+    },
+    {
+      "id": "HT-S4-02",
+      "name": "Majestic Grande Hotel",
+      "agoda_hotel_id": "10834",
+      "rating": "8.4",
+      "typical_price_usd": 68,
+      "distance": "Sukhumvit Soi 2, 180m walk to Nana Plaza"
+    },
+    {
+      "id": "HT-S4-03",
+      "name": "Dynasty Grande Hotel",
+      "agoda_hotel_id": "163935",
+      "rating": "8.3",
+      "typical_price_usd": 52,
+      "distance": "Sukhumvit Soi 6, 220m from Nana Plaza"
+    }
+  ],
+  "cowboy": [
+    {
+      "id": "HT-CB-01",
+      "name": "Sheraton Grande Sukhumvit",
+      "agoda_hotel_id": "8379",
+      "rating": "9.2",
+      "typical_price_usd": 185,
+      "distance": "Direct skybridge to BTS Asok & 150m to Soi Cowboy"
+    },
+    {
+      "id": "HT-CB-02",
+      "name": "The Westin Grande Sukhumvit",
+      "agoda_hotel_id": "8388",
+      "rating": "8.9",
+      "typical_price_usd": 160,
+      "distance": "Directly opposite Terminal 21, 100m to Soi Cowboy"
+    }
+  ],
+  "soi_11": [
+    {
+      "id": "HT-S11-01",
+      "name": "Aloft Bangkok Sukhumvit 11",
+      "agoda_hotel_id": "272025",
+      "rating": "8.6",
+      "typical_price_usd": 95,
+      "distance": "Directly above Levels Club on Sukhumvit Soi 11"
+    },
+    {
+      "id": "HT-S11-02",
+      "name": "Fraser Suites Sukhumvit",
+      "agoda_hotel_id": "71342",
+      "rating": "8.7",
+      "typical_price_usd": 110,
+      "distance": "Home to Above Eleven Rooftop, Sukhumvit Soi 11"
+    }
+  ],
+  "silom": [
+    {
+      "id": "HT-SIL-01",
+      "name": "W Bangkok Hotel",
+      "agoda_hotel_id": "389278",
+      "rating": "8.9",
+      "typical_price_usd": 170,
+      "distance": "North Sathorn, 3 minutes to Chong Nonsi BTS"
+    },
+    {
+      "id": "HT-SIL-02",
+      "name": "Crowne Plaza Bangkok Lumpini Park",
+      "agoda_hotel_id": "8394",
+      "rating": "8.8",
+      "typical_price_usd": 130,
+      "distance": "Rama IV & Silom junction, 2 min walk to Silom Soi 4"
+    }
+  ],
+  "khaosan": [
+    {
+      "id": "HT-KS-01",
+      "name": "Buddy Lodge Hotel",
+      "agoda_hotel_id": "11234",
+      "rating": "8.2",
+      "typical_price_usd": 48,
+      "distance": "Right on Khaosan Road above Brick Bar & The Club"
+    },
+    {
+      "id": "HT-KS-02",
+      "name": "Riva Surya Bangkok",
+      "agoda_hotel_id": "408996",
+      "rating": "9.0",
+      "typical_price_usd": 115,
+      "distance": "Chao Phraya Riverside on Phra Arthit Rd, 5 min walk to Khaosan"
+    }
+  ],
+  "thonglor": [
+    {
+      "id": "HT-TH-01",
+      "name": "Nikko Hotel Bangkok Thonglor",
+      "agoda_hotel_id": "5423891",
+      "rating": "9.1",
+      "typical_price_usd": 140,
+      "distance": "Sukhumvit 55 Thonglor, 2 min walk to BTS Thong Lo"
+    }
+  ],
+  "chinatown": [
+    {
+      "id": "HT-CT-01",
+      "name": "Shanghai Mansion Bangkok",
+      "agoda_hotel_id": "71321",
+      "rating": "8.8",
+      "typical_price_usd": 75,
+      "distance": "Heart of Yaowarat Road, 3 min walk to Wat Mangkon MRT"
+    }
+  ]
+}

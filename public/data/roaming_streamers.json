@@ -1,0 +1,38 @@
+[
+  {
+    "id": "RS-BKK-001",
+    "name": "JWINTHAI Live",
+    "current_route": "Sukhumvit Soi 4 & Nana Plaza Night Walk",
+    "status": "channel",
+    "youtube_channel_id": "UC0XFjC4eW1aYk035qjP7wEg",
+    "youtube_handle": "@jwinthai",
+    "avatar_url": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "RS-BKK-002",
+    "name": "Bangkok Walker Live",
+    "current_route": "Soi Cowboy & Asok Evening Stroll",
+    "status": "channel",
+    "youtube_channel_id": "UCEWqLsklX2yFe2J4BvBhK1Q",
+    "youtube_handle": "@BangkokWalker",
+    "avatar_url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "RS-BKK-003",
+    "name": "Bangkok 112 Live",
+    "current_route": "Sukhumvit Soi 11 & Nana Exploration",
+    "status": "channel",
+    "youtube_channel_id": "UCip2HiAmspOVMeh0yxMcEaA",
+    "youtube_handle": "@Bangkok112",
+    "avatar_url": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=150&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "RS-BKK-004",
+    "name": "Walking in the Rain Live",
+    "current_route": "Siam Square & Ratchaprasong Rainy Evening",
+    "status": "channel",
+    "youtube_channel_id": "UCq_Fh5QvQv5Lg_VjT4jJ8qQ",
+    "youtube_handle": "@WalkingInTheRain",
+    "avatar_url": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=150&auto=format&fit=crop&q=80"
+  }
+]

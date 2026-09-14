@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-09-13T22:50:58.811Z",
-  "total_videos": 37,
+  "last_updated": "2026-09-14T03:16:57.678Z",
+  "total_videos": 36,
   "videos": [
+    {
+      "id": "BtuOu9dl7dE",
+      "title": "🚨 🚨 HUGE Pattaya Updates! New LK Metro Venues, Police Raids & a Mega-Hotel Coming! 🚨 🚨",
+      "channel_name": "ProWalks Bangkok",
+      "channel_slug": "prowalks-bangkok",
+      "channel_avatar": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=200&auto=format&fit=crop&q=80",
+      "thumbnail_url": "https://i3.ytimg.com/vi/BtuOu9dl7dE/hqdefault.jpg",
+      "published_at": "2026-09-14T02:00:30+00:00",
+      "url": "https://www.youtube.com/watch?v=BtuOu9dl7dE"
+    },
     {
       "id": "I7mx3u720Tw",
       "title": "China's Best-Kept Secret: A Cinematic Journey Through Huaihua",
@@ -293,16 +303,6 @@
       "url": "https://www.youtube.com/watch?v=HKV0RRq-RRE"
     },
     {
-      "id": "F68BfExRD0E",
-      "title": "What Causes ED? Symptoms & Treatments with Dr. Champ | Wellthyme Clinic Pattaya",
-      "channel_name": "ProWalks Bangkok",
-      "channel_slug": "prowalks-bangkok",
-      "channel_avatar": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=200&auto=format&fit=crop&q=80",
-      "thumbnail_url": "https://i3.ytimg.com/vi/F68BfExRD0E/hqdefault.jpg",
-      "published_at": "2026-08-26T02:00:40+00:00",
-      "url": "https://www.youtube.com/watch?v=F68BfExRD0E"
-    },
-    {
       "id": "tahyXMSi2dc",
       "title": "Why KHAO YAI Is Thailand’s Most Beautiful Getaway 🇹🇭 | Resorts, Nature & Weather #livelovethailand",
       "channel_name": "Retire Cheap Asia",
@@ -361,16 +361,6 @@
       "thumbnail_url": "https://i2.ytimg.com/vi/ArmDHfzHCps/hqdefault.jpg",
       "published_at": "2026-08-16T11:00:10+00:00",
       "url": "https://www.youtube.com/watch?v=ArmDHfzHCps"
-    },
-    {
-      "id": "xU-QcVnNC4Q",
-      "title": "2 Desperate Pattaya Stories",
-      "channel_name": "Global Travel Mate",
-      "channel_slug": "global-travel-mate",
-      "channel_avatar": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?w=200&auto=format&fit=crop&q=80",
-      "thumbnail_url": "https://i1.ytimg.com/vi/xU-QcVnNC4Q/hqdefault.jpg",
-      "published_at": "2026-08-15T02:00:36+00:00",
-      "url": "https://www.youtube.com/watch?v=xU-QcVnNC4Q"
     }
   ]
 }

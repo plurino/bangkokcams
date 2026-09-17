@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-09-17T10:55:38.422Z",
+  "last_updated": "2026-09-17T16:12:18.162Z",
   "total_videos": 38,
   "videos": [
+    {
+      "id": "bDLUB0EojM4",
+      "title": "Why PHUKET Is Cheaper & Calmer Now 🇹🇭 | Hotels, Prices, Nightlife & Wet Vibes #livelovethailand",
+      "channel_name": "Retire Cheap Asia",
+      "channel_slug": "retire-cheap-asia",
+      "channel_avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=200&auto=format&fit=crop&q=80",
+      "thumbnail_url": "https://i3.ytimg.com/vi/bDLUB0EojM4/hqdefault.jpg",
+      "published_at": "2026-09-17T11:00:05+00:00",
+      "url": "https://www.youtube.com/watch?v=bDLUB0EojM4"
+    },
     {
       "id": "7Ch53DU8Cic",
       "title": "Naklua Walking Street: Authentic Pattaya, Thailand  🚶‍♂️ #shorts #pattaya #pattayathailand",
@@ -371,16 +381,6 @@
       "thumbnail_url": "https://i2.ytimg.com/vi/UFn4i2g12iI/hqdefault.jpg",
       "published_at": "2026-08-19T11:00:25+00:00",
       "url": "https://www.youtube.com/watch?v=UFn4i2g12iI"
-    },
-    {
-      "id": "_2zs5x4ztpY",
-      "title": "Why THAILAND Is So Busy Right Now 🇹🇭 | More Tourists, Crazy Weather & Great Prices #livelovethailand",
-      "channel_name": "Retire Cheap Asia",
-      "channel_slug": "retire-cheap-asia",
-      "channel_avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=200&auto=format&fit=crop&q=80",
-      "thumbnail_url": "https://i4.ytimg.com/vi/_2zs5x4ztpY/hqdefault.jpg",
-      "published_at": "2026-08-18T11:00:11+00:00",
-      "url": "https://www.youtube.com/watch?v=_2zs5x4ztpY"
     }
   ]
 }

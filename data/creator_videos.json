@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-29T12:05:44.235Z",
-  "total_videos": 37,
+  "last_updated": "2026-09-29T19:46:20.286Z",
+  "total_videos": 36,
   "videos": [
     {
       "id": "-j9jeWeHB3E",
@@ -361,16 +361,6 @@
       "thumbnail_url": "https://i4.ytimg.com/vi/SC6C3KXP1_c/hqdefault.jpg",
       "published_at": "2026-09-02T11:00:19+00:00",
       "url": "https://www.youtube.com/watch?v=SC6C3KXP1_c"
-    },
-    {
-      "id": "dBbBywd6Flc",
-      "title": "Trying the Best Afghan Food! 🇦🇫",
-      "channel_name": "Mark Wiens",
-      "channel_slug": "mark-wiens",
-      "channel_avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=200&auto=format&fit=crop&q=80",
-      "thumbnail_url": "https://i1.ytimg.com/vi/dBbBywd6Flc/hqdefault.jpg",
-      "published_at": "2026-08-30T12:30:16+00:00",
-      "url": "https://www.youtube.com/watch?v=dBbBywd6Flc"
     }
   ]
 }

@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-09-30T09:17:46.716Z",
-  "total_videos": 36,
+  "last_updated": "2026-09-30T17:34:43.930Z",
+  "total_videos": 38,
   "videos": [
+    {
+      "id": "5KI6O0x6Gg4",
+      "title": "CHIANG MAI’s Most Beautiful Places 🇹🇭 | Mountains, Waterfalls & Rice Field Stays #livelovethailand",
+      "channel_name": "Retire Cheap Asia",
+      "channel_slug": "retire-cheap-asia",
+      "channel_avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=200&auto=format&fit=crop&q=80",
+      "thumbnail_url": "https://i2.ytimg.com/vi/5KI6O0x6Gg4/hqdefault.jpg",
+      "published_at": "2026-09-30T11:00:27+00:00",
+      "url": "https://www.youtube.com/watch?v=5KI6O0x6Gg4"
+    },
+    {
+      "id": "G-Hyv6lQG0c",
+      "title": "Why Montreal Is Canada's BEST Food City!! (Smoked Meat, Bagels & Poutine)",
+      "channel_name": "Mark Wiens",
+      "channel_slug": "mark-wiens",
+      "channel_avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=200&auto=format&fit=crop&q=80",
+      "thumbnail_url": "https://i4.ytimg.com/vi/G-Hyv6lQG0c/hqdefault.jpg",
+      "published_at": "2026-09-30T11:00:05+00:00",
+      "url": "https://www.youtube.com/watch?v=G-Hyv6lQG0c"
+    },
     {
       "id": "K96q9SXyK6M",
       "title": "WHAT’S HAPPENING right here right now, lot’s of changes and updates!",

@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-10-07T09:46:02.861Z",
-  "total_videos": 36,
+  "last_updated": "2026-10-07T18:24:21.545Z",
+  "total_videos": 38,
   "videos": [
+    {
+      "id": "9vfqRPWGXh0",
+      "title": "What BANGKOK Is Really Like Now 🇹🇭 | Weather, Travel, Shopping & City Vibes",
+      "channel_name": "Retire Cheap Asia",
+      "channel_slug": "retire-cheap-asia",
+      "channel_avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=200&auto=format&fit=crop&q=80",
+      "thumbnail_url": "https://i2.ytimg.com/vi/9vfqRPWGXh0/hqdefault.jpg",
+      "published_at": "2026-10-07T11:00:24+00:00",
+      "url": "https://www.youtube.com/watch?v=9vfqRPWGXh0"
+    },
+    {
+      "id": "v8KaQr0MhjE",
+      "title": "Inside Canada's Fast Food PARADISE!! (Montreal, Quebec)",
+      "channel_name": "Mark Wiens",
+      "channel_slug": "mark-wiens",
+      "channel_avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=200&auto=format&fit=crop&q=80",
+      "thumbnail_url": "https://i3.ytimg.com/vi/v8KaQr0MhjE/hqdefault.jpg",
+      "published_at": "2026-10-07T11:00:15+00:00",
+      "url": "https://www.youtube.com/watch?v=v8KaQr0MhjE"
+    },
     {
       "id": "MJ33dghUsa0",
       "title": "JOMTIEN’S Rapidly changing with lot’s happening, take a look for yourself!",

@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-10-09T00:57:25.376Z",
-  "total_videos": 40,
+  "last_updated": "2026-10-09T10:00:32.414Z",
+  "total_videos": 39,
   "videos": [
+    {
+      "id": "qoCSCZat9qk",
+      "title": "Hua Hin Getaway! 🌴 Incredible Food, Nightlife & The Chalelarn Hotel",
+      "channel_name": "ProWalks Bangkok",
+      "channel_slug": "prowalks-bangkok",
+      "channel_avatar": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=200&auto=format&fit=crop&q=80",
+      "thumbnail_url": "https://i2.ytimg.com/vi/qoCSCZat9qk/hqdefault.jpg",
+      "published_at": "2026-10-09T02:00:00+00:00",
+      "url": "https://www.youtube.com/watch?v=qoCSCZat9qk"
+    },
     {
       "id": "BzJWhLWbErE",
       "title": "I Didn't Expect Lanzhou to Look Like THIS",
@@ -283,16 +293,6 @@
       "url": "https://www.youtube.com/watch?v=pz-e3aQihqo"
     },
     {
-      "id": "YHQnq49DoFY",
-      "title": "Thai Street Drink, Check this out! #shorts #pattaya #pattayathailand",
-      "channel_name": "ProWalks Bangkok",
-      "channel_slug": "prowalks-bangkok",
-      "channel_avatar": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=200&auto=format&fit=crop&q=80",
-      "thumbnail_url": "https://i2.ytimg.com/vi/YHQnq49DoFY/hqdefault.jpg",
-      "published_at": "2026-09-20T02:00:28+00:00",
-      "url": "https://www.youtube.com/watch?v=YHQnq49DoFY"
-    },
-    {
       "id": "VFdRb0D6gSY",
       "title": "The KING of Filipino Street Food (Sisig) 🇵🇭",
       "channel_name": "Mark Wiens",
@@ -391,16 +391,6 @@
       "thumbnail_url": "https://i2.ytimg.com/vi/yEU-7p3IpBM/hqdefault.jpg",
       "published_at": "2026-09-09T11:00:01+00:00",
       "url": "https://www.youtube.com/watch?v=yEU-7p3IpBM"
-    },
-    {
-      "id": "XT-U7iKRRxE",
-      "title": "Pattaya Cheap Short Term Condo Rentals, 1 week, 1 month",
-      "channel_name": "Global Travel Mate",
-      "channel_slug": "global-travel-mate",
-      "channel_avatar": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?w=200&auto=format&fit=crop&q=80",
-      "thumbnail_url": "https://i1.ytimg.com/vi/XT-U7iKRRxE/hqdefault.jpg",
-      "published_at": "2026-09-09T02:00:21+00:00",
-      "url": "https://www.youtube.com/watch?v=XT-U7iKRRxE"
     }
   ]
 }

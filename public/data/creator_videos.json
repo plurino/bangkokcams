@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-12T10:11:53.479Z",
-  "total_videos": 38,
+  "last_updated": "2026-10-12T20:52:42.621Z",
+  "total_videos": 37,
   "videos": [
     {
       "id": "RAUzEDZibJ0",
@@ -371,16 +371,6 @@
       "thumbnail_url": "https://i2.ytimg.com/vi/I7mx3u720Tw/hqdefault.jpg",
       "published_at": "2026-09-13T09:18:06+00:00",
       "url": "https://www.youtube.com/watch?v=I7mx3u720Tw"
-    },
-    {
-      "id": "UIA4v0aMCJQ",
-      "title": "Afghanistan Village Food (Whole Lamb) 🇦🇫",
-      "channel_name": "Mark Wiens",
-      "channel_slug": "mark-wiens",
-      "channel_avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=200&auto=format&fit=crop&q=80",
-      "thumbnail_url": "https://i2.ytimg.com/vi/UIA4v0aMCJQ/hqdefault.jpg",
-      "published_at": "2026-09-12T11:00:28+00:00",
-      "url": "https://www.youtube.com/watch?v=UIA4v0aMCJQ"
     }
   ]
 }

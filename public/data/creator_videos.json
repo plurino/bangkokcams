@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-10-13T02:24:23.864Z",
+  "last_updated": "2026-10-13T10:04:27.064Z",
   "total_videos": 37,
   "videos": [
+    {
+      "id": "A-lHdxsfYCE",
+      "title": "Is This London's Best Steak? 🥩",
+      "channel_name": "Mark Wiens",
+      "channel_slug": "mark-wiens",
+      "channel_avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=200&auto=format&fit=crop&q=80",
+      "thumbnail_url": "https://i2.ytimg.com/vi/A-lHdxsfYCE/hqdefault.jpg",
+      "published_at": "2026-10-13T09:35:04+00:00",
+      "url": "https://www.youtube.com/watch?v=A-lHdxsfYCE"
+    },
     {
       "id": "RAUzEDZibJ0",
       "title": "NEW 450 Baht Tourist Fee?! 🚨 Pattaya Bar Updates, Beach Road Bulldozers & Local News",
@@ -361,16 +371,6 @@
       "thumbnail_url": "https://i1.ytimg.com/vi/DUpF16qY-eA/hqdefault.jpg",
       "published_at": "2026-09-14T23:00:27+00:00",
       "url": "https://www.youtube.com/watch?v=DUpF16qY-eA"
-    },
-    {
-      "id": "I7mx3u720Tw",
-      "title": "China's Best-Kept Secret: A Cinematic Journey Through Huaihua",
-      "channel_name": "Bangkok 112",
-      "channel_slug": "bangkok-112",
-      "channel_avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=200&auto=format&fit=crop&q=80",
-      "thumbnail_url": "https://i2.ytimg.com/vi/I7mx3u720Tw/hqdefault.jpg",
-      "published_at": "2026-09-13T09:18:06+00:00",
-      "url": "https://www.youtube.com/watch?v=I7mx3u720Tw"
     }
   ]
 }

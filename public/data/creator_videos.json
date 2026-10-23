@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-10-23T10:58:57.287Z",
+  "last_updated": "2026-10-23T16:25:34.628Z",
   "total_videos": 36,
   "videos": [
+    {
+      "id": "gM5hAO3bW7s",
+      "title": "Greenland Food — SURVIVING for 4,000 Years!!",
+      "channel_name": "Mark Wiens",
+      "channel_slug": "mark-wiens",
+      "channel_avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=200&auto=format&fit=crop&q=80",
+      "thumbnail_url": "https://i4.ytimg.com/vi/gM5hAO3bW7s/hqdefault.jpg",
+      "published_at": "2026-10-23T11:00:34+00:00",
+      "url": "https://www.youtube.com/watch?v=gM5hAO3bW7s"
+    },
     {
       "id": "qxlytFDpHDQ",
       "title": "Pratumnak Soi 5 Update & Exploring NEW Menu Items at Eatali Restaurant! 🌴🍕",
@@ -351,16 +361,6 @@
       "thumbnail_url": "https://i3.ytimg.com/vi/zzjFeSpUyyk/hqdefault.jpg",
       "published_at": "2026-09-25T11:00:11+00:00",
       "url": "https://www.youtube.com/watch?v=zzjFeSpUyyk"
-    },
-    {
-      "id": "t1A-fKc5P0I",
-      "title": "The Philippines Most EXTREME Food in Pampanga!! 🇵🇭",
-      "channel_name": "Mark Wiens",
-      "channel_slug": "mark-wiens",
-      "channel_avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=200&auto=format&fit=crop&q=80",
-      "thumbnail_url": "https://i1.ytimg.com/vi/t1A-fKc5P0I/hqdefault.jpg",
-      "published_at": "2026-09-23T11:00:01+00:00",
-      "url": "https://www.youtube.com/watch?v=t1A-fKc5P0I"
     }
   ]
 }

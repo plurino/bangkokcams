@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-10-27T00:13:21.898Z",
-  "total_videos": 36,
+  "last_updated": "2026-10-27T08:37:30.479Z",
+  "total_videos": 37,
   "videos": [
+    {
+      "id": "V-hl9Ianb54",
+      "title": "Linda Message #shorts #pattaya #thailand",
+      "channel_name": "ProWalks Bangkok",
+      "channel_slug": "prowalks-bangkok",
+      "channel_avatar": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=200&auto=format&fit=crop&q=80",
+      "thumbnail_url": "https://i3.ytimg.com/vi/V-hl9Ianb54/hqdefault.jpg",
+      "published_at": "2026-10-27T02:00:40+00:00",
+      "url": "https://www.youtube.com/watch?v=V-hl9Ianb54"
+    },
+    {
+      "id": "ulsCBTe4MAo",
+      "title": "Pattaya Budget High Season Hotels",
+      "channel_name": "Global Travel Mate",
+      "channel_slug": "global-travel-mate",
+      "channel_avatar": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?w=200&auto=format&fit=crop&q=80",
+      "thumbnail_url": "https://i2.ytimg.com/vi/ulsCBTe4MAo/hqdefault.jpg",
+      "published_at": "2026-10-27T02:00:25+00:00",
+      "url": "https://www.youtube.com/watch?v=ulsCBTe4MAo"
+    },
     {
       "id": "y0RKbdmLOcQ",
       "title": "Everything I Ate for 24 hours as a MasterChef Asia Judge in Macao!",
@@ -84,7 +104,7 @@
     },
     {
       "id": "BZzhCDrBq0U",
-      "title": "This Shenzhen Walk Will Make You Want to Book a Flight Tonight!",
+      "title": "Shenzhen Looks Like 2099 Already | 4K City Architecture",
       "channel_name": "Bangkok 112",
       "channel_slug": "bangkok-112",
       "channel_avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=200&auto=format&fit=crop&q=80",
@@ -291,16 +311,6 @@
       "thumbnail_url": "https://i3.ytimg.com/vi/v8KaQr0MhjE/hqdefault.jpg",
       "published_at": "2026-10-07T11:00:15+00:00",
       "url": "https://www.youtube.com/watch?v=v8KaQr0MhjE"
-    },
-    {
-      "id": "MJ33dghUsa0",
-      "title": "JOMTIEN’S Rapidly changing with lot’s happening, take a look for yourself!",
-      "channel_name": "ProWalks Bangkok",
-      "channel_slug": "prowalks-bangkok",
-      "channel_avatar": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=200&auto=format&fit=crop&q=80",
-      "thumbnail_url": "https://i2.ytimg.com/vi/MJ33dghUsa0/hqdefault.jpg",
-      "published_at": "2026-10-07T02:00:01+00:00",
-      "url": "https://www.youtube.com/watch?v=MJ33dghUsa0"
     },
     {
       "id": "V8DQPf4Yy8s",

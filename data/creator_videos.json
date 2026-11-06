@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-06T10:21:42.104Z",
-  "total_videos": 40,
+  "last_updated": "2026-11-06T18:51:22.182Z",
+  "total_videos": 38,
   "videos": [
     {
       "id": "d54RupOHen0",
@@ -381,26 +381,6 @@
       "thumbnail_url": "https://i2.ytimg.com/vi/Imt6V8AHCRQ/hqdefault.jpg",
       "published_at": "2026-10-08T02:00:05+00:00",
       "url": "https://www.youtube.com/watch?v=Imt6V8AHCRQ"
-    },
-    {
-      "id": "9vfqRPWGXh0",
-      "title": "What BANGKOK Is Really Like Now 🇹🇭 | Weather, Travel, Shopping & City Vibes",
-      "channel_name": "Retire Cheap Asia",
-      "channel_slug": "retire-cheap-asia",
-      "channel_avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=200&auto=format&fit=crop&q=80",
-      "thumbnail_url": "https://i2.ytimg.com/vi/9vfqRPWGXh0/hqdefault.jpg",
-      "published_at": "2026-10-07T11:00:24+00:00",
-      "url": "https://www.youtube.com/watch?v=9vfqRPWGXh0"
-    },
-    {
-      "id": "v8KaQr0MhjE",
-      "title": "Is Canada's Fast Food BETTER Than America? 🇨🇦",
-      "channel_name": "Mark Wiens",
-      "channel_slug": "mark-wiens",
-      "channel_avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=200&auto=format&fit=crop&q=80",
-      "thumbnail_url": "https://i3.ytimg.com/vi/v8KaQr0MhjE/hqdefault.jpg",
-      "published_at": "2026-10-07T11:00:15+00:00",
-      "url": "https://www.youtube.com/watch?v=v8KaQr0MhjE"
     }
   ]
 }

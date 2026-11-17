@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-11-16T21:37:00.566Z",
-  "total_videos": 39,
+  "last_updated": "2026-11-17T06:26:54.111Z",
+  "total_videos": 40,
   "videos": [
+    {
+      "id": "5A_CMX81t7c",
+      "title": "I Found Paradise in China: Walking the MOST Beautiful Coastline in Sanya",
+      "channel_name": "Bangkok 112",
+      "channel_slug": "bangkok-112",
+      "channel_avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=200&auto=format&fit=crop&q=80",
+      "thumbnail_url": "https://i2.ytimg.com/vi/5A_CMX81t7c/hqdefault.jpg",
+      "published_at": "2026-11-17T00:48:30+00:00",
+      "url": "https://www.youtube.com/watch?v=5A_CMX81t7c"
+    },
     {
       "id": "ipQRAE_Z-rU",
       "title": "Pattaya News Update: Driving License Changes, Treetown Demolition, Scams Busted & New Builds!",

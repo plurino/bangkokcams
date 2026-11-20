@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-19T19:55:26.812Z",
-  "total_videos": 39,
+  "last_updated": "2026-11-20T01:59:45.766Z",
+  "total_videos": 38,
   "videos": [
     {
       "id": "bTmMsVfFcm4",
@@ -381,16 +381,6 @@
       "thumbnail_url": "https://i4.ytimg.com/vi/gM5hAO3bW7s/hqdefault.jpg",
       "published_at": "2026-10-23T11:00:34+00:00",
       "url": "https://www.youtube.com/watch?v=gM5hAO3bW7s"
-    },
-    {
-      "id": "BZzhCDrBq0U",
-      "title": "Shenzhen Looks Like 2099 Already | 4K City Architecture",
-      "channel_name": "Bangkok 112",
-      "channel_slug": "bangkok-112",
-      "channel_avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=200&auto=format&fit=crop&q=80",
-      "thumbnail_url": "https://i3.ytimg.com/vi/BZzhCDrBq0U/hqdefault.jpg",
-      "published_at": "2026-10-21T00:25:23+00:00",
-      "url": "https://www.youtube.com/watch?v=BZzhCDrBq0U"
     }
   ]
 }

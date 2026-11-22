@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-11-22T10:41:10.452Z",
+  "last_updated": "2026-11-22T19:00:06.622Z",
   "total_videos": 40,
   "videos": [
+    {
+      "id": "oRRe2Ki8YRs",
+      "title": "World's Best FRENCH FOOD!! 33 Meals from Paris to Marseille [Full Documentary]",
+      "channel_name": "Mark Wiens",
+      "channel_slug": "mark-wiens",
+      "channel_avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=200&auto=format&fit=crop&q=80",
+      "thumbnail_url": "https://i4.ytimg.com/vi/oRRe2Ki8YRs/hqdefault.jpg",
+      "published_at": "2026-11-22T11:00:01+00:00",
+      "url": "https://www.youtube.com/watch?v=oRRe2Ki8YRs"
+    },
     {
       "id": "6QBlr0aXEEg",
       "title": "Hidden Capybara Cafe in Pattaya 🤫 #shorts #pattaya #thailand",
@@ -391,16 +401,6 @@
       "thumbnail_url": "https://i3.ytimg.com/vi/bVZYmn-y3GY/hqdefault.jpg",
       "published_at": "2026-10-24T11:00:15+00:00",
       "url": "https://www.youtube.com/watch?v=bVZYmn-y3GY"
-    },
-    {
-      "id": "gM5hAO3bW7s",
-      "title": "Surviving GREENLAND!! Arctic Food for 4,500 Years!!",
-      "channel_name": "Mark Wiens",
-      "channel_slug": "mark-wiens",
-      "channel_avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=200&auto=format&fit=crop&q=80",
-      "thumbnail_url": "https://i4.ytimg.com/vi/gM5hAO3bW7s/hqdefault.jpg",
-      "published_at": "2026-10-23T11:00:34+00:00",
-      "url": "https://www.youtube.com/watch?v=gM5hAO3bW7s"
     }
   ]
 }

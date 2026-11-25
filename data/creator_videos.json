@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-11-25T03:55:52.564Z",
-  "total_videos": 39,
+  "last_updated": "2026-11-25T16:45:29.935Z",
+  "total_videos": 40,
   "videos": [
+    {
+      "id": "xErhsQ242bg",
+      "title": "The BIGGEST Lobster I've Ever Seen!! (Nova Scotia, Canada) 🇨🇦",
+      "channel_name": "Mark Wiens",
+      "channel_slug": "mark-wiens",
+      "channel_avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=200&auto=format&fit=crop&q=80",
+      "thumbnail_url": "https://i1.ytimg.com/vi/xErhsQ242bg/hqdefault.jpg",
+      "published_at": "2026-11-25T11:00:18+00:00",
+      "url": "https://www.youtube.com/watch?v=xErhsQ242bg"
+    },
+    {
+      "id": "EbqYhHOV8Oo",
+      "title": "What's Really Like Arriving In Thailand Now 🇹🇭 | Airport E-Gates, Immigration Checks & Entry Rules",
+      "channel_name": "Retire Cheap Asia",
+      "channel_slug": "retire-cheap-asia",
+      "channel_avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=200&auto=format&fit=crop&q=80",
+      "thumbnail_url": "https://i2.ytimg.com/vi/EbqYhHOV8Oo/hqdefault.jpg",
+      "published_at": "2026-11-25T11:00:04+00:00",
+      "url": "https://www.youtube.com/watch?v=EbqYhHOV8Oo"
+    },
     {
       "id": "gdZaAkr-XFM",
       "title": "CHIANG RAI PART 1: White, Blue & Red Temples + Thailand’s Most UNREAL Cafe!",
@@ -381,16 +401,6 @@
       "thumbnail_url": "https://i2.ytimg.com/vi/ulsCBTe4MAo/hqdefault.jpg",
       "published_at": "2026-10-27T02:00:25+00:00",
       "url": "https://www.youtube.com/watch?v=ulsCBTe4MAo"
-    },
-    {
-      "id": "y0RKbdmLOcQ",
-      "title": "Everything I Ate for 24 hours as a MasterChef Asia Judge in Macao!",
-      "channel_name": "Mark Wiens",
-      "channel_slug": "mark-wiens",
-      "channel_avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=200&auto=format&fit=crop&q=80",
-      "thumbnail_url": "https://i2.ytimg.com/vi/y0RKbdmLOcQ/hqdefault.jpg",
-      "published_at": "2026-10-26T11:00:23+00:00",
-      "url": "https://www.youtube.com/watch?v=y0RKbdmLOcQ"
     }
   ]
 }

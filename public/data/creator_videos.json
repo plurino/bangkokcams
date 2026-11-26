@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-11-26T01:31:34.511Z",
-  "total_videos": 40,
+  "last_updated": "2026-11-26T11:52:07.116Z",
+  "total_videos": 39,
   "videos": [
+    {
+      "id": "CAbKBfpPgBE",
+      "title": "Thepprasit Part 1 Walkabout, check this out! #shorts #pattaya #thailand",
+      "channel_name": "ProWalks Bangkok",
+      "channel_slug": "prowalks-bangkok",
+      "channel_avatar": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=200&auto=format&fit=crop&q=80",
+      "thumbnail_url": "https://i4.ytimg.com/vi/CAbKBfpPgBE/hqdefault.jpg",
+      "published_at": "2026-11-26T02:00:30+00:00",
+      "url": "https://www.youtube.com/watch?v=CAbKBfpPgBE"
+    },
     {
       "id": "xErhsQ242bg",
       "title": "The BIGGEST Lobster I've Ever Seen!! (Nova Scotia, Canada) 🇨🇦",
@@ -293,16 +303,6 @@
       "url": "https://www.youtube.com/watch?v=d54RupOHen0"
     },
     {
-      "id": "7i8TP4JkoMg",
-      "title": "5 Thai Food in PattayaThailand’s go-to comfort food. #shorts #pattaya #thailand",
-      "channel_name": "ProWalks Bangkok",
-      "channel_slug": "prowalks-bangkok",
-      "channel_avatar": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=200&auto=format&fit=crop&q=80",
-      "thumbnail_url": "https://i4.ytimg.com/vi/7i8TP4JkoMg/hqdefault.jpg",
-      "published_at": "2026-11-05T02:00:10+00:00",
-      "url": "https://www.youtube.com/watch?v=7i8TP4JkoMg"
-    },
-    {
       "id": "lz06lrFWgmQ",
       "title": "Indians Kept Telling Me to Eat HERE!! (Lucknow Food Tour)",
       "channel_name": "Mark Wiens",
@@ -391,16 +391,6 @@
       "thumbnail_url": "https://i1.ytimg.com/vi/8tEXcv-8pIw/hqdefault.jpg",
       "published_at": "2026-10-28T11:00:03+00:00",
       "url": "https://www.youtube.com/watch?v=8tEXcv-8pIw"
-    },
-    {
-      "id": "ulsCBTe4MAo",
-      "title": "Pattaya Budget High Season Hotels",
-      "channel_name": "Global Travel Mate",
-      "channel_slug": "global-travel-mate",
-      "channel_avatar": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?w=200&auto=format&fit=crop&q=80",
-      "thumbnail_url": "https://i2.ytimg.com/vi/ulsCBTe4MAo/hqdefault.jpg",
-      "published_at": "2026-10-27T02:00:25+00:00",
-      "url": "https://www.youtube.com/watch?v=ulsCBTe4MAo"
     }
   ]
 }

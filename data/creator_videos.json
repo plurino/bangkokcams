@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-27T03:27:59.058Z",
-  "total_videos": 40,
+  "last_updated": "2026-11-27T16:05:44.239Z",
+  "total_videos": 39,
   "videos": [
     {
       "id": "CtsixqSHFqQ",
@@ -34,7 +34,7 @@
     },
     {
       "id": "xErhsQ242bg",
-      "title": "The BIGGEST Lobster I've Ever Seen!! (Nova Scotia, Canada) 🇨🇦",
+      "title": "I Ate a 13-Pound LOBSTER!! (Nova Scotia, Canada)",
       "channel_name": "Mark Wiens",
       "channel_slug": "mark-wiens",
       "channel_avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=200&auto=format&fit=crop&q=80",
@@ -391,16 +391,6 @@
       "thumbnail_url": "https://i4.ytimg.com/vi/Sd0YW6Da0as/hqdefault.jpg",
       "published_at": "2026-10-31T11:00:08+00:00",
       "url": "https://www.youtube.com/watch?v=Sd0YW6Da0as"
-    },
-    {
-      "id": "8tEXcv-8pIw",
-      "title": "I Tried the World’s Most UNUSUAL Buffet!! (in Greenland 🇬🇱)",
-      "channel_name": "Mark Wiens",
-      "channel_slug": "mark-wiens",
-      "channel_avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=200&auto=format&fit=crop&q=80",
-      "thumbnail_url": "https://i1.ytimg.com/vi/8tEXcv-8pIw/hqdefault.jpg",
-      "published_at": "2026-10-28T11:00:03+00:00",
-      "url": "https://www.youtube.com/watch?v=8tEXcv-8pIw"
     }
   ]
 }
